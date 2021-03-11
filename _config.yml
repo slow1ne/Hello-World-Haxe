@@ -2,7 +2,7 @@ title: Hello-world-haxe
 description: Haxe development - Hello World
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
